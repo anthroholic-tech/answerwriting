@@ -75,7 +75,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Go to Anthroholic.com 🚀
+          Go to Anthroholic.com 🚀 (you)
         </a>
       </footer>
     </div>
